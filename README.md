@@ -9,3 +9,4 @@
 ![CODONGWOOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODONGWOOK&show_icons=true&theme=highcontrast)  
 ![CODONGWOOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODONGWOOK&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wang12kr0413)](https://solved.ac/wang12kr0413)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODONGWOOK&layout=Demo 스타일&theme=Demo)
